@@ -12,3 +12,5 @@ https://CreamyCrunch6.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Josh Gerner
+
+### ©️2019 Run Buddy, Inc
