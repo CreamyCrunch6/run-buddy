@@ -326,6 +326,18 @@ p {
 
   /* trainers */
 
+  .trainer-1 {
+    background-image: url("<insert-correct-path-here>/trainer-1.jpg");
+  }
+
+  .trainer-2 {
+    background-image: url("<insert-correct-path-here>/trainer-1.jpg");
+  }
+
+  .trainer-3 {
+    background-image: url("<insert-correct-path-here>/trainer-1.jpg");
+  }
+
   .trainers {
     width: 100%;
     margin: 0 auto;
@@ -510,7 +522,7 @@ p {
   :root {
     --primary-color: #fce138;
     --secondary-color: #024e76;
-    --tertiary-color: #939899;
+    --tertiary-color: #39a6b2;
   }
   /* End General Rules */
 
