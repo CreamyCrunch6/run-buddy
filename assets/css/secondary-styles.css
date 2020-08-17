@@ -21,7 +21,7 @@
 .secondary-content {
   width: 80%;
   margin: auto; 
-  color: var(secondary-color);
+  color: var(--secondary-color);
 }
 
 .secondary-content h3 {
@@ -40,6 +40,6 @@
 }
 
 .secondary-content li {
-  color: var(tertiary-color);
+  color: var(--tertiary-color);
   margin: 10px 0px;
 }
